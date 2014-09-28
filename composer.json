@@ -1,0 +1,9 @@
+{
+  "name": "Mockery Codeception",
+  "description": "Mockery Codeception",
+  "minimum-stability": "stable",
+  "require-dev": {
+    "codeception/codeception": "2.0.5",
+    "codeception/mockery-module": "*"
+  }
+}
