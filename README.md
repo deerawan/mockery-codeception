@@ -1,7 +1,7 @@
 mockery-codeception
 ===================
 
-See how to integrate Mockery on Codeception. For more detail, see the article on [url]http://budiirawan.com/using-mockery-codeception/[/url]
+See how to integrate Mockery on Codeception. For more detail, see the article on http://budiirawan.com/using-mockery-codeception/
 
 Install
 ===================
